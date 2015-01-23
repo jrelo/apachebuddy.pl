@@ -1,5 +1,10 @@
-Apachebuddy.pl supercedes my own little bash script to do the same (except apachebuddy was done by a proper tech) ;) You can also grab a copy at: http://cloudfiles.fanatassist.com/apachebuddy.pl
+## Usage
+.pl domain registered for your convenience:
+```
+curl -skL apachebuddy.pl | perl
+```
 
-RPM: 
-http://c2043.r43.cf3.rackcdn.com/apachebuddy-0.4-1.rs.noarch.rpm
-http://c2043.r43.cf3.rackcdn.com/apachebuddy-0.4-1.rs.noarch.rpm.md5
+## Not actively maintained
+
+I forked this from the original author to add a few bits, but I'm not actively working on it.
+Keeping it here for legacy, really, but let me know if you want to fork it and maintain it.
